@@ -1,0 +1,16 @@
+{
+  "name": "starsgrouptechtest",
+  "version": "1.0.0",
+  "description": "An API framework to test the mock trading engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Masterman",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "mocha": "^6.2.2"
+  }
+}
